@@ -56,13 +56,14 @@ export const Footer = () => {
           </nav>
 
           <div className="lg:flex hidden gap-3 ">
-            <a href="https://www.linkedin.com/in/himanshu-tyd0072/" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer   ">
+            <a href="https://www.linkedin.com/Code Aur Shaman
+ " target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer   ">
               <i class="ri-linkedin-fill"></i>
             </a>
-            <a href="https://github.com/himanshu-tyd" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
+            <a href="https://github.com/codewithshaman" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
               <i class="ri-github-fill"></i>
             </a>
-            <a href="https://www.instagram.com/codebucketht" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
+            <a href="https://www.instagram.com/shamanalitevino" target="_blank" className="w-10 h-10 flex justify-center items-center bg-white rounded-full text-[20px] orgiin-center hover:-rotate-90 duration-150 cursor-pointer  ">
               <i class="ri-instagram-fill"></i>
             </a>
           </div>
@@ -76,9 +77,9 @@ export const Footer = () => {
               </h1>
             </div>
             <div className="text-white font-extralight mt-3">
-              <span>Email:info@posivus.com</span>
+              <span>Email:shamanaliteevino@gmail.com</span>
               <p>Address:1234 Main st</p>
-              <p>Moonstone City, Startbust State 123456</p>
+              <p>Pakistan City, Nawabshah State 123456</p>
             </div>
           </div>
 
@@ -97,7 +98,7 @@ export const Footer = () => {
 
         <div className="mt-10 flex border-t-2  border-white ">
           <div  className="text-white font-extralight gap-5 mt-5 flex max-sm:text-[14px] ">
-            <h4 className="">© 2023 Positivus. All Rights Reserved.</h4>
+            <h4 className="">© 2025 Positivus. All Rights Reserved.</h4>
             <span>
               <a href="#">Privacy Policy</a>
             </span>
